@@ -8,5 +8,10 @@ public class CreateTest {
 	{
 		System.out.println("====CREATED====");
 	}
+@Test
+public void modify()
+{
+	System.out.println("----Modified");
+}
 
 }
