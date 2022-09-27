@@ -2,7 +2,7 @@ package GithubPackage;
 
 import org.testng.annotations.Test;
 
-public class CreateTest {
+public class Create1 {
 	@Test
 	public void create()
 	{
