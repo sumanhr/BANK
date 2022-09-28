@@ -9,7 +9,7 @@ public class Create1 {
 		System.out.println("====CREATED====");
 	}
 @Test
-public void modify()
+public void modify1()
 {
 	System.out.println("----Modified");
 }
